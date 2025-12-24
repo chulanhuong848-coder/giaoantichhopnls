@@ -263,10 +263,11 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
                 YÊU CẦU LUÔN LUÔN TUÂN THỦ CẤU TRÚC (CÔNG VĂN 2345):
                 I. Yêu cầu cần đạt: Trong phần này lại chia thành các phần sau: 
-                1. Học sinh thực hiện được, 
-                2. Học sinh vận dụng được, 
-                3. Phát triển năng lực (bao gồm năng lực đặc thù, năng lực chung, phát triển năng lực số), 
-                4. Phát triển phẩm chất.
+                1. Học sinh thực hiện được, (Thể hiện bằng 1 gạch đầu dòng không cần ghi đề mục)
+                2. Học sinh vận dụng được, (Thể hiện bằng 1 gạch đầu dòng không cần ghi đề mục)
+                3. Phát triển năng lực (bao gồm năng lực đặc thù, năng lực chung, (Thể hiện bằng 1 gạch đầu dòng không cần ghi đề mục)
+                4. Phát triển phẩm chất. (Thể hiện bằng 1 gạch đầu dòng không cần ghi đề mục)
+                - phát triển năng lực số: (Tích hợp khung năng lực số theo khung năng lực số nếu có)
                 * Nội dung tích hợp (VD: Học thông qua chơi, Công dân số,...)
                     - Lưu ý: Thêm phát triển năng lực số trong mục phát triển năng lực (Dựa vào file Khung năng lực nếu có).
                     - Nội dung tích hợp Học thông qua chơi trong Yêu cầu cần đạt cần cụ thể chi tiết hơn chút nữa.
@@ -283,7 +284,7 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
                 | HOẠT ĐỘNG CỦA GIÁO VIÊN | HOẠT ĐỘNG CỦA HỌC SINH |
                 |---|---|
                 | **1. Hoạt động 1 - Khởi động:**<br>- GV tổ chức... | - HS tham gia... |
-                | **2. Hoạt động 2 - Hình thành kiến thức mới:**<br>- GV hướng dẫn... | - HS quan sát... |
+                | **2. Hoạt động 2 - Khám phá:**<br>- GV hướng dẫn... | - HS quan sát... |
                 | **3. Hoạt động 3 - Thực hành - luyện tập:**<br>- GV yêu cầu... | - HS thực hiện... |
                 | **4. Hoạt động 4 - Vận dụng:**<br>- GV gợi mở... | - HS chia sẻ... |
 
