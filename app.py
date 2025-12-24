@@ -262,16 +262,14 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
                 - Ghi chú bổ sung: "{noidung_bosung}".
 
                 YÊU CẦU LUÔN LUÔN TUÂN THỦ CẤU TRÚC (CÔNG VĂN 2345):
-                I. Yêu cầu cần đạt: Trong phần này lại chia thành các phần sau: 
-                1. Học sinh thực hiện được, (Thể hiện bằng 1 gạch đầu dòng không cần ghi đề mục)
-                2. Học sinh vận dụng được, (Thể hiện bằng 1 gạch đầu dòng không cần ghi đề mục)
-                3. Phát triển năng lực (bao gồm năng lực đặc thù, năng lực chung, (Thể hiện bằng 1 gạch đầu dòng không cần ghi đề mục)
-                4. Phát triển phẩm chất. (Thể hiện bằng 1 gạch đầu dòng không cần ghi đề mục)
+                I. Yêu cầu cần đạt: Trong phần này lại chia thành 4 gạch đầu dòng các phần sau: 
+                - Học sinh thực hiện được
+                - Học sinh vận dụng được
+                - Phát triển năng lực (bao gồm năng lực đặc thù, năng lực chung)
+                - Phát triển phẩm chất. 
                 - phát triển năng lực số: (Tích hợp khung năng lực số theo khung năng lực số nếu có)
                 * Nội dung tích hợp (VD: Học thông qua chơi, Công dân số,...)
-                    - Lưu ý: Thêm phát triển năng lực số trong mục phát triển năng lực (Dựa vào file Khung năng lực nếu có).
-                    - Nội dung tích hợp Học thông qua chơi trong Yêu cầu cần đạt cần cụ thể chi tiết hơn chút nữa.
-                    - Nội dung tích hợp Công dân số cũng cần cụ thể hơn trong yêu cầu cần đạt.
+                - Nội dung tích hợp Công dân số cũng cần cụ thể hơn trong yêu cầu cần đạt.
 
                 II. Đồ dùng dạy học
                 1. Giáo viên
